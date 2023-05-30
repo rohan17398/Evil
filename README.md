@@ -25,7 +25,7 @@ Heatmap Visualization: The project offers a heatmap visualization of Counter-Ter
 3. Install the required dependencies by running the following command:
    pip install -r requirements.txt
 
-##Usage
+## Usage
 
 1.Run the orchestrator.py file using the following command:
   python3 orchestrator.py
