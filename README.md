@@ -32,9 +32,9 @@ Heatmap Visualization: The project offers a heatmap visualization of Counter-Ter
   
 The program will execute and provide the following outputs:
 
-The result of the common strategy check for entering via the light blue boundary.
-The average timer for entering "BombsiteB" with at least 2 rifles or SMGs.
-A heatmap of CT player positions inside "BombsiteB".
+1. The result of the common strategy check for entering via the light blue boundary.
+2. The average timer for entering "BombsiteB" with at least 2 rifles or SMGs.
+3. A heatmap of CT player positions inside "BombsiteB".
 
 
 
