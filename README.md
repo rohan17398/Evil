@@ -1,5 +1,10 @@
 # Evil Geniuses
 
+This repository contains the code and documentation for the EvilGenius project.
+
+## Project Documentation
+ The Project report (Evil Genius Project Documentation.pdf)  is present in the Output folder in the repo along with the screenshots of the ouput
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
